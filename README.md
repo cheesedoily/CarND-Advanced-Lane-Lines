@@ -21,8 +21,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./output_images/undistort_camera_calib.png "Undistorted Camera Corners"
 [image2]: ./output_images/undistort_lane_example.png "Undistorted Lane Example"
-[image2]: ./output_images/binary_image_example.png "Binary Lane Image"
-[image3]: ./output_images/binary_combo_example.png "Binary Example"
+[image3]: ./output_images/binary_image_example.png "Binary Lane Image"
 [image4]: ./output_images/perspective_transform.png "Perspective Example"
 [image5]: ./output_images/mask_example.png "Mask Example"
 [image6]: ./output_images/sliding_window.png "Sliding Window"
